@@ -14,7 +14,7 @@
 	<name>tretton-backend-api</name>
 	<description>User stories assignment</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
