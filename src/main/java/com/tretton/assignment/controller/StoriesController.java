@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class StoriesController {
 
-	@GetMapping("/stories")
+	@GetMapping("/userstories")
 	public String firstStory() {
 		return "first story";
 	}
